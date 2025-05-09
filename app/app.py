@@ -5,6 +5,7 @@ import streamlit as st
 
 def main():
     st.header('hello world')
+    st.write('it works')
 
 
 if __name__ == '__main__':
